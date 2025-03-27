@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from "react";
 
 const projects = [
@@ -9,7 +8,7 @@ const projects = [
   },
   {
     title: "Roadmetric",
-    description: "Lead Roadmetric's development effort of their product "Enforcement Deputy" – A video recording, streaming and management solution for police cars.",
+    description: "Lead Roadmetric's development effort of their product \"Enforcement Deputy\" – A video recording, streaming and management solution for police cars.",
     imageUrl: "https://images.unsplash.com/photo-1581092921461-7eed14a54239?q=80&w=500&auto=format"
   },
   {
